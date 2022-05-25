@@ -3,8 +3,8 @@
 ## Table of Contents
 
 - [Overview](#overview)
-- - [Screenshot](#screenshot)
-- - [Links](#links)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
 - [Build With](#build-with)
 - [Author](#author)
 

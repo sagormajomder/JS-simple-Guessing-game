@@ -5,7 +5,7 @@
 - [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [Build With](#build-with)
+- [Build With](#built-with)
 - [Author](#author)
 
 ## Overview
@@ -25,7 +25,7 @@ This game is not reponsive yet. It only have Desktop Version. Soon it will have 
 - Solution URL: [solution URL here](https://github.com/sagormajomder/frontend-mentor-respornsive-card-component)
 - Live Site URL: [live site URL here](https://sagormajomder.github.io/JS-simple-Guessing-game/)
 
-### Built-with
+### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties

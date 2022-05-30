@@ -33,6 +33,8 @@ checkButton.addEventListener('click', function () {
   const guessValue = Number(document.querySelector('.guess').value);
   if (!guessValue) {
     messagePrint('⛔ Please Input Number');
+  } else if (guessValue > 20) {
+    messagePrint('Enter Input between 1 to 20');
   } else if (guessValue != answer) {
     guessValue > answer
       ? messagePrint('📈 Too High!')

@@ -14,11 +14,7 @@ This is a simple Guessing game build with Vanila Javascipt.
 
 ### Screenshot
 
-#### Desktop Preview
-
 ![](./screenshot/desktop_preview.png)
-
-This game is not reponsive yet. It only have Desktop Version. Soon it will have responsive version.
 
 ### Links
 
